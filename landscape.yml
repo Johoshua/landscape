@@ -1084,7 +1084,8 @@ landscape:
             name: MuleSoft
             homepage_url: 'https://www.mulesoft.com/'
             repo_url: 'https://github.com/mulesoft/mule'
-            logo: './hosted_logos/mulesoft.svg'
+            branch: mule-4.x
+            logo: ./hosted_logos/mulesoft.svg
             twitter: 'https://twitter.com/mulesoft'
             crunchbase: 'https://www.crunchbase.com/organization/mulesoft'
           - item:

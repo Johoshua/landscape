@@ -5801,6 +5801,7 @@ landscape:
             name: MuleSoft
             homepage_url: 'https://www.mulesoft.com/'
             repo_url: 'https://github.com/mulesoft/mule'
+            branch: mule-4.x
             logo: ./hosted_logos/mulesoft.svg
             twitter: 'https://twitter.com/mulesoft'
             crunchbase: 'https://www.crunchbase.com/organization/mulesoft'
@@ -5817,6 +5818,19 @@ landscape:
               linkedin: 'https://www.linkedin.com/company/mulesoft'
               ticker: MULE
               kind: market_cap
+            github_data:
+              stars: 605
+              license: Unknown License
+              description: Mule Community Edition
+              latest_commit_date: '2018-06-01T04:00:00.000Z'
+              latest_commit_link: /mulesoft/mule/commit/7acb76b48b21648711852cdc15d69638c57556db
+              release_date: '2018-05-28T18:07:41Z'
+              release_link: 'https://github.com/mulesoft/mule/releases'
+              contributors_count: 88
+              contributors_link: 'https://github.com/mulesoft/mule/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /mulesoft/mule/commit/4bd0e0c93409a7618f63ac68628c3979d1e1d553
+              start_date: '2005-02-15T02:27:21Z'
             cncf_membership_data:
               cncf_member: false
             yahoo_finance_data:
